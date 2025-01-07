@@ -1,4 +1,4 @@
-# Simple Serving
+# Simple AI App
 
 This is a simple LLM serving example using Llama.cpp, FastAPI and Pydantic.
 
@@ -6,9 +6,7 @@ This is a simple LLM serving example using Llama.cpp, FastAPI and Pydantic.
 
 ### Pre-requisites
 
-This application requires a local OpenAI API services running at `http://localhost:8000`.
-
-```bash
+This application requires a local OpenAI Compatible API services running at `http://localhost:8000`.
 
 ### Local
 
